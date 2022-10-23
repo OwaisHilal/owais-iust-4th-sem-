@@ -1,7 +1,7 @@
 /*
 Create a Linked List to store the following data;
-Name : Aasim Ashraf;
-Roll No: CSE-20-LE-63
+//Name    : OWAIS HILAL
+//Roll No : CSE-20-39
 */
 
 #include <iostream>
