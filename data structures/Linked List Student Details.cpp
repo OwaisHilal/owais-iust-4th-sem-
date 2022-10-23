@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 
-//Name    : Aasim Ashraf
-//Roll No : CSE-20-LE-63
+//Name    : OWAIS HILAL
+//Roll No : CSE-20-39
 //Sem     : 4th
 
 typedef struct node{
